@@ -486,17 +486,6 @@ Verify:
 
 ---
 
-# 👨‍💻 Authors
-
-Discord:
-
-```text
-mazenmahmoud6550
-som3aa2001
-```
-
----
-
 # 📜 License
 
 Private Project
